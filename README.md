@@ -29,6 +29,13 @@ O site contém informações sobre os eletrodomésticos cadastrados e suas respe
 2. Necessário ter a versão 10.7.0 do Node Package Manager (NPM)
 3. Rodar o comando npm install
 4. Rodar o comando npm run dev
+## Integrantes
+- Caio Marques (RM 555997)
+- Felipe Camargo Revolta e Souza (RM 556325)
+- Caio Amarante Miranda de Lima (RM 558640)
+## Turma
+*1TDSR*
+
 
 
 
