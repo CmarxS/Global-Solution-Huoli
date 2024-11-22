@@ -35,6 +35,11 @@ O site contém informações sobre os eletrodomésticos cadastrados e suas respe
 - Caio Amarante Miranda de Lima (RM 558640)
 ## Turma
 *1TDSR*
+## Links
+- [Youtube - Link do vídeo de demonstração] (adicionarDepois)
+- [Youtube - Link do vídeo dos status das API's] (adicionarDepois)
+- Github - Repositório no Github
+- [Deploy na Vercel](https://global-solution-huoli.vercel.app/)
 
 
 
