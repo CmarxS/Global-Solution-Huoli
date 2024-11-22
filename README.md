@@ -18,11 +18,13 @@ O site contém informações sobre os eletrodomésticos cadastrados e suas respe
     - O usuário pode acessar a página de configurações de um eletrodoméstico específico para definir limites de consumo e ações automáticas, como alertas ou desligamento, de forma a otimizar o uso de energia.
 ## APIs Utilizadas
 ### API em Java
+- [Repositório](https://github.com/camargo1605/Global-Solution-Java)
 - Eletrodomésticos: Endpoints para criar, atualizar, visualizar e deletar eletrodomésticos.
 - Clientes: Endpoints para criar, atualizar, visualizar e deletar clientes.
 - Github - Repositório CRUD API
 
 ### API em Python (Flask)
+- [Repositório](https://github.com/CmarxS/API-PYTHON-GS)
 - Autenticação: Endpoint para autenticar o usuário.
 - Configurações de Consumo: Endpoints para criar, atualizar, visualizar e deletar configurações de consumo associadas aos eletrodomésticos.
 - Github - Repositório Autenticação API
@@ -39,7 +41,7 @@ O site contém informações sobre os eletrodomésticos cadastrados e suas respe
 *1TDSR*
 
 ## Links
-- [Youtube - Link do vídeo de demonstração](https://youtu.be/yU4ftwwhjq4)
+- [Youtube - Link do vídeo de demonstração](https://youtu.be/Cfg8WadiJsU)
 - [Youtube - Link do vídeo dos status das API's](adicionarDepois)
 - [Github - Repositório no Github](https://github.com/CmarxS/Global-Solution-Huoli)
 - [Deploy na Vercel](https://global-solution-huoli.vercel.app/)
