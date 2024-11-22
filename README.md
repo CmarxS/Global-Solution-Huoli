@@ -42,6 +42,6 @@ O site contém informações sobre os eletrodomésticos cadastrados e suas respe
 
 ## Links
 - [Youtube - Link do vídeo de demonstração](https://youtu.be/Cfg8WadiJsU)
-- [Youtube - Link do vídeo dos status das API's](adicionarDepois)
+- [Youtube - Link do vídeo dos status das API's](https://youtu.be/xfG-3mIQUf8)
 - [Github - Repositório no Github](https://github.com/CmarxS/Global-Solution-Huoli)
 - [Deploy na Vercel](https://global-solution-huoli.vercel.app/)
