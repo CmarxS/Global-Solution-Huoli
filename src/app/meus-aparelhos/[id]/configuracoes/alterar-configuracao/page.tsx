@@ -77,7 +77,7 @@ export default function AlterarConfiguracaoPage() {
             }
 
             alert("Configuração de consumo atualizada com sucesso!");
-            router.push(`/meus-aparelhos/${formData.idEletrodomestico}/menu-configuracao`);
+            router.push(`/meus-aparelhos/${formData.idEletrodomestico}/configuracoes`);
         } catch (error) {
             console.error("Erro ao atualizar a configuração de consumo:", error);
             alert("Erro ao atualizar a configuração. Por favor, tente novamente.");
