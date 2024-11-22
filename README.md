@@ -27,5 +27,8 @@ O site contém informações sobre os eletrodomésticos cadastrados e suas respe
 ## Como rodar o projeto
 1. Necessário ter a versão 20.15.1 do NodeJS
 2. Necessário ter a versão 10.7.0 do Node Package Manager (NPM)
+3. Rodar o comando npm install
+4. Rodar o comando npm run dev
+
 
 
