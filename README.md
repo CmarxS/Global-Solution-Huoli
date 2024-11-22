@@ -15,3 +15,8 @@ O site contém informações sobre os eletrodomésticos cadastrados e suas respe
 
 - Configurar o consumo de um eletrodoméstico:
  - O usuário pode acessar a página de configurações de um eletrodoméstico específico para definir limites de consumo e ações automáticas, como alertas ou desligamento, de forma a otimizar o uso de energia.
+## APIs Utilizadas
+### API em Java
+- Eletrodomésticos: Endpoints para criar, atualizar, visualizar e deletar eletrodomésticos.
+- Clientes: Endpoints para criar, atualizar, visualizar e deletar clientes.
+- Github - Repositório CRUD API
