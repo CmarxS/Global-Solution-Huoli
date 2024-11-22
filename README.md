@@ -23,4 +23,9 @@ O site contém informações sobre os eletrodomésticos cadastrados e suas respe
 ### API em Python (Flask)
 - Autenticação: Endpoint para autenticar o usuário.
 - Configurações de Consumo: Endpoints para criar, atualizar, visualizar e deletar configurações de consumo associadas aos eletrodomésticos.
+- Github - Repositório Autenticação API
+## Como rodar o projeto
+1. Necessário ter a versão 20.15.1 do NodeJS
+2. Necessário ter a versão 10.7.0 do Node Package Manager (NPM)
+
 
