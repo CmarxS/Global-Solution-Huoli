@@ -20,3 +20,7 @@ O site contém informações sobre os eletrodomésticos cadastrados e suas respe
 - Eletrodomésticos: Endpoints para criar, atualizar, visualizar e deletar eletrodomésticos.
 - Clientes: Endpoints para criar, atualizar, visualizar e deletar clientes.
 - Github - Repositório CRUD API
+### API em Python (Flask)
+- Autenticação: Endpoint para autenticar o usuário.
+- Configurações de Consumo: Endpoints para criar, atualizar, visualizar e deletar configurações de consumo associadas aos eletrodomésticos.
+
