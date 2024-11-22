@@ -14,3 +14,4 @@ O site contém informações sobre os eletrodomésticos cadastrados e suas respe
     - Os eletrodomésticos podem ser gerenciados diretamente pelo usuário utilizando uma API em Java. É possível realizar operações de criação, atualização e exclusão de eletrodomésticos.
 
 - Configurar o consumo de um eletrodoméstico:
+ - O usuário pode acessar a página de configurações de um eletrodoméstico específico para definir limites de consumo e ações automáticas, como alertas ou desligamento, de forma a otimizar o uso de energia.
