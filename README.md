@@ -1,8 +1,8 @@
 # Projeto: HUOLI
+
 ## Descrição
 O *HUOLI* é um protótipo de site desenvolvido em Next.js para simular uma solução de gerenciamento de consumo de energia em eletrodomésticos. O projeto visa auxiliar usuários a monitorar o consumo de seus eletrodomésticos, gerenciar suas configurações e reduzir o consumo de energia em casa. A plataforma conta com funcionalidades que permitem cadastrar, atualizar, visualizar, e deletar eletrodomésticos, além de realizar ajustes nas configurações de consumo.
-## Funcionalidades do Site
-O site contém informações sobre os eletrodomésticos cadastrados e suas respectivas configurações de consumo. Para acessar essas funcionalidades, o usuário precisa se cadastrar e realizar login. Após o login, ele é redirecionado para a página inicial, onde pode:
+
 ## Funcionalidades do Site
 O site contém informações sobre os eletrodomésticos cadastrados e suas respectivas configurações de consumo. Para acessar essas funcionalidades, o usuário precisa se cadastrar e realizar login. Após o login, ele é redirecionado para a página inicial, onde pode:
 
@@ -14,12 +14,14 @@ O site contém informações sobre os eletrodomésticos cadastrados e suas respe
     - Os eletrodomésticos podem ser gerenciados diretamente pelo usuário utilizando uma API em Java. É possível realizar operações de criação, atualização e exclusão de eletrodomésticos.
 
 - Configurar o consumo de um eletrodoméstico:
- - O usuário pode acessar a página de configurações de um eletrodoméstico específico para definir limites de consumo e ações automáticas, como alertas ou desligamento, de forma a otimizar o uso de energia.
+
+    - O usuário pode acessar a página de configurações de um eletrodoméstico específico para definir limites de consumo e ações automáticas, como alertas ou desligamento, de forma a otimizar o uso de energia.
 ## APIs Utilizadas
 ### API em Java
 - Eletrodomésticos: Endpoints para criar, atualizar, visualizar e deletar eletrodomésticos.
 - Clientes: Endpoints para criar, atualizar, visualizar e deletar clientes.
 - Github - Repositório CRUD API
+
 ### API em Python (Flask)
 - Autenticação: Endpoint para autenticar o usuário.
 - Configurações de Consumo: Endpoints para criar, atualizar, visualizar e deletar configurações de consumo associadas aos eletrodomésticos.
@@ -35,12 +37,9 @@ O site contém informações sobre os eletrodomésticos cadastrados e suas respe
 - Caio Amarante Miranda de Lima (RM 558640)
 ## Turma
 *1TDSR*
+
 ## Links
-- [Youtube - Link do vídeo de demonstração] (adicionarDepois)
-- [Youtube - Link do vídeo dos status das API's] (adicionarDepois)
+- [Youtube - Link do vídeo de demonstração](https://youtu.be/yU4ftwwhjq4)
+- [Youtube - Link do vídeo dos status das API's](adicionarDepois)
 - [Github - Repositório no Github](https://github.com/CmarxS/Global-Solution-Huoli)
 - [Deploy na Vercel](https://global-solution-huoli.vercel.app/)
-
-
-
-
